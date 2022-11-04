@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🔭 I’m currently working as Node.js Backend Developer <img src='https://emoji.slack-edge.com/T04QYV2KQ/nodejs/7d9cf123e0625df8.png' alt='node_logo' width='17px'> at Applaudo Studios <img src='https://emoji.slack-edge.com/T04QYV2KQ/applaudo_/65fcd00709e80931.png' alt='node_logo' width='17px'> in El Salvador <img src='https://cdn-icons-png.flaticon.com/512/299/299933.png' alt='sv_flag' width='17px'>
+### 🔭 I’m currently working as Node.js Backend Developer <img src='https://emoji.slack-edge.com/T04QYV2KQ/nodejs/7d9cf123e0625df8.png' alt='node_logo' width='17px'> at Applaudo <img src='https://emoji.slack-edge.com/T04QYV2KQ/applaudo_/65fcd00709e80931.png' alt='node_logo' width='17px'> in El Salvador <img src='https://cdn-icons-png.flaticon.com/512/299/299933.png' alt='sv_flag' width='17px'>
 
 ### 📫 How to reach me:
 * <img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='LinkedIn' width='20px'> as [Nestor Recinos](https://www.linkedin.com/in/n%C3%A9stor-recinos-2a043a187/)
