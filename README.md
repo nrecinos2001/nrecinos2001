@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🔭 I am currently working as Node.js Full Stack Developer at Boxful Fulfillment <img src='https://media.licdn.com/dms/image/D560BAQF55oJmB6T3rw/company-logo_200_200/0/1690230896172?e=2147483647&v=beta&t=VLJuyY9X3VG9kJ8juBkG5QMMhHpeumZV40xqcTd_G50' alt='boxful_logo' width='17px'> in El Salvador <img src='https://cdn-icons-png.flaticon.com/512/299/299933.png' alt='sv_flag' width='17px'>
+### 🔭 I am currently working as Node.js Full Stack Engineer at Boxful Fulfillment <img src='https://media.licdn.com/dms/image/D560BAQF55oJmB6T3rw/company-logo_200_200/0/1690230896172?e=2147483647&v=beta&t=VLJuyY9X3VG9kJ8juBkG5QMMhHpeumZV40xqcTd_G50' alt='boxful_logo' width='17px'> in El Salvador <img src='https://cdn-icons-png.flaticon.com/512/299/299933.png' alt='sv_flag' width='17px'>
 
 ### 📫 How to reach me:
 * <img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='LinkedIn' width='20px'> as [Nestor Recinos](https://www.linkedin.com/in/nrecinosdev/)
