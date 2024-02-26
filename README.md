@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🔭 I am currently working as Node.js Full Stack Engineer at Boxful Fulfillment <img src='https://media.licdn.com/dms/image/D560BAQF55oJmB6T3rw/company-logo_200_200/0/1690230896172?e=2147483647&v=beta&t=VLJuyY9X3VG9kJ8juBkG5QMMhHpeumZV40xqcTd_G50' alt='boxful_logo' width='17px'> in El Salvador <img src='https://cdn-icons-png.flaticon.com/512/299/299933.png' alt='sv_flag' width='17px'>
+### 🔭 I am currently working as Node.js Full Stack Engineer at Boxful Fulfillment <img src='https://media.licdn.com/dms/image/D4E0BAQERfDu5UlfS_A/company-logo_200_200/0/1697143892149/boxful_latam_logo?e=2147483647&v=beta&t=jD0usBPCj6_VX8xKvPsMjYz8CE8uJDLMjEXx-eBBHqI' alt='boxful_logo' width='17px'> in El Salvador <img src='https://cdn-icons-png.flaticon.com/512/299/299933.png' alt='sv_flag' width='17px'>
 
 ### 📫 How to reach me:
 * <img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='LinkedIn' width='20px'> as [Nestor Recinos](https://www.linkedin.com/in/nrecinosdev/)
@@ -14,6 +14,12 @@
 ### ⚡ Fun fact:
 * I love cats! 🐱
 * One of my favourites movies is Interestellar 🚀
+
+
+### 📊 My Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nrecinos2001)](https://git.io/streak-stats) </br>
+[![Nestor's GitHub stats](https://github-readme-stats.vercel.app/api?username=nrecinos2001)](https://github.com/anuraghazra/github-readme-stats) </br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrecinos2001&layout=compact)
 <!--
 **nestorrecinosUCA/nestorrecinosUCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
